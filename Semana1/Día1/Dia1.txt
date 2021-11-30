@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html Lang="es">
+<head>
+    <!-- Info Técnica -->
+    <meta charset="UTF -8">
+    <meta name="description" content="Mi primera página con HTML5">
+    <meta name="keywords" content="html5, codigo, aprendiendo, Perú">
+    <title>Hola mundo - códiGO - Perú</title>
+</head>
+<body>
+    <header>
+        <h1>Título Principal</h1>
+        <h2>Mensaje</h2>
+        </--h1----h6-->
+    </header>
+    <nav>
+        <h2>Menú Principal</h2>
+        Inicio | Nosotros | Fotos | Blog | contacto
+    </nav>
+    <main>
+        <h2>Nuevos Articulos</h2>
+         
+             
+</html>

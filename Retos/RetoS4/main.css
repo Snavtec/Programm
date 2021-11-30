@@ -1,0 +1,49 @@
+.grid {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-template-rows: 400px 400px;
+    gap: 1em
+}
+
+/* El elemento "AUTO"
+Sirve para ajustar la grilla (GRID) 
+conforme al texto que tiene en el interior */
+
+/* El elemento "GAP"
+Sirve para formar un espaciado entre las grillas.
+Se puede especificar el tamaño y donde va a 
+realizarse el espaciado:
+                      - Colum-gap
+                      - Rows-gap                 */
+
+/* El elemento fr 
+Es un forma de medición la cual mide y reparte la página en fracciones. */
+
+/* Repeat 
+Palabra clave que sirve para repetir tanto filas(rows) como columnas(colum).
+En el primer espacio dentro del parentesis, se especifica la cantidad de repeticiones
+y en el segundo espacio después de la coma se especifica el espacio de separación que 
+se va a repetir:
+                - ...repeat(12, fr)  */
+
+.nested-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto;
+    gap: 1em;
+}
+
+.nasted-grid > div {
+    border: border 1px black;
+    background: yellow;
+    padding: 1em;
+}
+
+.grid div {
+    background-color: crimson;
+    padding: 1em;
+}
+
+.grid div:hover {
+    border: 1px solid yellow;
+}

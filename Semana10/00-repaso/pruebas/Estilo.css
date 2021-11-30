@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* temporal */
+    border: 1px solid gray;
+}
+
+.contenedor{
+    display: flex;
+    max-height: 100vh;
+}
+
+.aplicacion {
+    width: 70%;
+    height: 100%;
+    background-color: #f5f5f6;
+}
+
+.boleta {
+    width: 10%;
+    height: 100%;
+    background-color: #35373e;
+}
+
+.principal {
+    display: flex;
+    height: 100%;
+}
+
+nav {
+    height: 100%;
+    width: 20%;
+    min-width: 200px;
+    padding: 20px;
+}
+
+main {
+    height: 100%;
+    width: 80%;
+    /* trabaja en dos dimensiones*/
+    display: grid;
+    /* cuantas columnas quiero, explícito */
+    grid-template-columns: repeat(3, 1fr);
+    /* No sé cuantas filas tendré, implícito */
+    grid-auto-rows: 400px;
+    padding: 20px;
+    /* separación entre elementos de grid */
+    gap: 10px;
+}
+
+.producto {
+    display: flex;
+    flex-direction: column;
+}
+
+.img-top {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.text-bottom > * {
+    margin: 5px 0;
+}

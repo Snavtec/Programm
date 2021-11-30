@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up</title>
+</head>
+<body>
+    <style>
+        body {
+            font-family: Arial;
+            background-color: whitesmoke;
+        
+        }
+
+
+       
+        a {
+            color: inherit;
+        }
+
+        article {
+            text-align: left;
+            width: 30mm;
+            size: inherit;
+
+        }  
+
+        button {
+            background-color: rgb(12, 46, 139);
+            color: white;
+            width: 30mm;
+            height: 12mm;
+            font-size: 5mm;
+            font-weight: bold; 
+        }
+
+        
+
+
+
+    </style>
+</head>
+<body>
+    <header>
+    <h1>Sign Up</h1>
+    </header>
+    
+    <main>
+        <section>
+            <form>
+            <article>
+                <label for="name">First Name</label>
+                <input 
+                    type="name" 
+                    id="nombre"
+                    minlength="2"
+					maxlength="6"
+                    required
+                >
+                <br><br>
+                <label for="age">Age</label>
+                <br>
+                <input 
+                    type="number" 
+                    id="age" 
+                    min="0"
+                    max="120"
+                    required
+                >
+                <br><br>
+                <label for="income">Income</label>
+                <input 
+                    type="income" 
+                    id="income"
+                    minlength="2"
+					maxlength="6"
+                    required
+                >
+                <br><br>
+                <label for="info">More Info</label>
+                <textarea cols="22" rows="1"></textarea>
+            </article>
+                <br>
+                <label>Gender</label>
+                <br>
+				<input 
+					type="radio" 
+					name="genero"
+					value="M"
+				>Male
+				<input 
+					type="radio" 
+					name="genero"
+					value="F"
+				>Female
+				<input 
+					type="radio" 
+					name="genero"
+					value="Trans"
+                >Trans
+                <br><br>
+                <label>Plan</label>
+                <br>
+				<select>
+					<option selected disabled>
+						Select Plan
+					</option>
+					<option value="PR">Premium</option>
+					<option value="PL">Platinum</option>
+					<option value="FA">Family</option>
+					<option value="SI">Simple</option>
+					<option value="FR">Free</option>
+				</select>
+                
+                <br><br><br><br>
+                <input type="checkbox" value="next">Subscribe to Newsletter
+
+
+                <br><br><br><br>
+                <button name="Next">Update</button>
+
+                
+
+            </form>
+    
+</section>
+</main>
+    
+</body>
+</html>

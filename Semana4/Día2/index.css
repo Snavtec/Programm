@@ -1,0 +1,45 @@
+.icons img {
+    width: 25px;
+    margin: 20px;
+}
+
+/* Contenido */
+
+.conteiner {
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+}
+
+.title-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    /* para que entren los elementos */
+    height: 350vh;
+
+.title {
+    width: 240px;
+    display: flex;
+    flex-direction: colum;
+    position: relative;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.title:hover {
+    background-color: #efefef;
+}
+
+.title img {
+    border-radius: 8px;
+}
+
+.title .overlay {
+    /* display: none; */
+    position: absolute;
+    z-index: 1;
+}
+
+
+}

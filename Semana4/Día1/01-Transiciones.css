@@ -1,0 +1,23 @@
+.cuadrado {
+    width: 250px;
+    height: 250px;
+    border: 1px solid red;
+    background-color: steelblue;
+
+    transition-duration: 1000ms;
+    transition-delay: 2s;
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.02, 0.96, 1, 0.06); 
+}
+
+.cuadrado:hover {
+    background-color: coral;
+    border-radius: 50%;
+    transform: translate(400px, 400px);
+}
+
+#mifoto {
+    width: 40px;
+    opacity: 0.5;
+}
+

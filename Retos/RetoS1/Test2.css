@@ -1,0 +1,35 @@
+.header {
+  background-color: rgb(127, 255, 244);
+  height: 150px;
+}
+
+.main {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  gap: 1rem;
+  height: 800px;
+}
+
+.nav {
+  background-color: rgb(154, 205, 50);
+}
+
+.articulo {
+  background-color: rgb(173, 255, 47);
+}
+.seccion__articulo {
+  background-color: rgb(50, 52, 170);
+}
+
+.aside {
+  background-color: rgb(255, 165, 0);
+}
+
+.aside__seccion {
+  background-color: rgb(255, 69, 0);
+}
+
+.footer {
+  background-color: rgb(127, 255, 244);
+  height: 150px;
+}

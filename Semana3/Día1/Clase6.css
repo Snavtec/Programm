@@ -1,0 +1,29 @@
+* {
+    border: 1px solid red;
+}
+h1 {
+    color: peru;
+    width: 50%;
+    border: 1px solid blue;
+}
+h2 {
+    /*HEXADECIMAL, en pares*/
+    /*color: #RR GG BB*/
+    /*color: #005dfc*/
+    color: #555; 
+}
+h3 {
+
+    color: rgb(240, 10, 168);
+}
+p {
+
+    background-color: hsl(100, 50%, 70%);
+}
+
+/*Medidas*/
+
+header {
+    width: 400px;
+    height: 200px;
+}

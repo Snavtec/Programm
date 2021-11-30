@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta content="initial-scale=1.0, width=device-width" name="viewport">
+        <meta charset="UTF-8">
+        <title>Cotiza tu experiencia gamer</title>
+        <link href="./styles.css" rel="stylesheet">
+    </head>
+    <body>
+        <div class="raiz">
+            <nav>
+                <h1>COTIZA TU EXPERIENCIA GAMER!</h1>
+            </nav>
+            <div class="principal">
+                <nav class="menu">
+                    <ul>
+                        <li>Monitores</li>
+                        <li>Teclados</li>
+                        <li>Mouse</li>
+                        <li>Audifonos</li>
+                        <li>PC</li>
+                        <li>Webcam</li>
+                        <li>Sillas</li>
+                    </ul>
+                </nav>
+                <main id="contenido"></main>
+            </div>
+        </div>
+        <div class="carrito">
+            <p id="fecha"></p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Item</th>
+                        <th>Cantidad</th>
+                        <th>P.Unit.</th>
+                        <th>SubTotal</th>
+                    </tr>
+                </thead>
+                <tbody id="tbody-carrito"></tbody>
+            </table>
+            <div class="resumen">
+                <table>
+                    <tbody id="tbody-resumen"></tbody>
+                </table>
+                <button id="btn-pagar">START!</button>
+            </div>
+        </div>
+        <script src="./script.js"></script>
+    </body>
+</html>

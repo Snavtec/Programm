@@ -1,0 +1,27 @@
+/* etiquetas, .clases, #id */
+/* ,="Y" */
+h1,
+article {
+    text-decoration; underline;
+}
+
+/* todos los p que sean hijos dentro de article */
+article p {
+    background-color: aquamarine;
+}
+
+/* > hace referencia a los primeros hijos */
+ol > li {
+    color: rebeccapurple;
+}
+
+article > p {
+    color:red;
+}
+
+#caja > span {
+    background-color: yellow;
+}
+
+/* pseudoclases */
+/* nth-of-type */
