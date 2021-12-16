@@ -1,0 +1,258 @@
+[
+ {
+  "nombre": "Razer Naga Edition",
+  "descripcion": "Mouse ergonomico para gamers de alta respuesta",
+  "precio": 250,
+  "imagen": "https://assets2.razerzone.com/images/pnx.assets/e429c76f51b34a0ce9c368be025e58b8/razer-naga-left-handed-edition-500x500.png",
+  "categoria_id": "1",
+  "caracteristicas": [
+   "Respuesta 1ms",
+   "Resistente",
+   "Competitivo"
+  ],
+  "id": "1"
+ },
+ {
+  "nombre": "Razer DeathHadder Essential",
+  "descripcion": "Mouse optico con mas de 6400 de dpi",
+  "precio": 180,
+  "imagen": "https://assets2.razerzone.com/images/pnx.assets/89b592e45a60be05a671c021f3363ac0/daessential-500x500.png",
+  "categoria_id": "1",
+  "caracteristicas": [
+   "Respuesta 1ms",
+   "Resistente",
+   "Competitivo"
+  ],
+  "id": "2"
+ },
+ {
+  "nombre": "Razer Mamba",
+  "descripcion": "Mouse chroma , customisable y wireless",
+  "precio": 340,
+  "imagen": "https://assets2.razerzone.com/images/pnx.assets/89b592e45a60be05a671c021f3363ac0/razer-mamba-elite_500x500.png",
+  "categoria_id": "1",
+  "caracteristicas": [
+   "Respuesta 1ms",
+   "Resistente",
+   "Competitivo",
+   "Inalambrico"
+  ],
+  "id": "3"
+ },
+ {
+  "nombre": "Razer pro click mini",
+  "descripcion": "Mouse silencioso, pequeño adaptable a cualquier tipo de mano",
+  "precio": 280,
+  "imagen": "https://assets3.razerzone.com/W-1HMv8-CHFxfkflrJqU-xhg3NM=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhf3%2Fh6f%2F9257515089950%2F211102-pro-click-mini-gallery-1500x1000-1.jpg",
+  "categoria_id": "1",
+  "caracteristicas": [
+   "Respuesta 1ms",
+   "Resistente",
+   "Competitivo"
+  ],
+  "id": "4"
+ },
+ {
+  "nombre": "Razer Lancehead Tournament",
+  "descripcion": "Mouse gamer color rosa , alto sensor de switch , 16000 dpi",
+  "precio": 210,
+  "imagen": "https://assets3.razerzone.com/nLztJdFPtiJzskmjPQNbEyam--s=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhfe%2Fhaa%2F9104678813726%2FLancehead-Tournament-Edition-Quartz-1500x1000-1.jpg",
+  "categoria_id": "1",
+  "caracteristicas": [
+   "Respuesta 1ms",
+   "Resistente",
+   "Competitivo"
+  ],
+  "id": "5"
+ },
+ {
+  "nombre": "Logitech G502 Lightspeed Wireless",
+  "descripcion": "Mouse gamer wireless color negro RGB - 16000 dpi",
+  "precio": 439.90,
+  "imagen": "https://oechsle.vteximg.com.br/arquivos/ids/3136799-1000-1000/image-4f2018aa363f4070b22ec2dadfa6d902.jpg?v=637497035860670000",
+  "categoria_id": "1",
+  "caracteristicas": [
+   "Sensor HERO 16K",
+   "Dpi de 100 a 16,000 para un seguimiento confiable",
+   "11 botones programables con soporte para comandos personalizados"
+ ],
+  "id": "6"
+ },
+ {
+  "nombre": "CORSAIR INALAMBRICO DARK CORE PRO",
+  "descripcion": "DARK CORE RGB PRO le ayuda a ganar sin cables, y cuenta con el sistema SLIPSTREAM WIRELESS de menos de 1 ms",
+  "precio": 524,
+  "imagen": "https://lrstore.azureedge.net/images/p/1954/MSCOR9315411.png",
+  "categoria_id": "1",
+  "caracteristicas": [
+   "Retroiluminación RGB dinámica en nueve zonas, incluida una barra de luz integrada con cuatro LED RGB direccionables de forma individual",
+   "Sensor óptico PixArt PAW3392 personalizado de 18.000 ppp"
+ ],
+  "id": "7"
+ },
+ {
+  "nombre": "REDRAGON GRIFFIN M607",
+  "descripcion": "HASTA 7200 DPI, RGB, 8 BOTONES",
+  "precio": 79,
+  "imagen": "https://s3.amazonaws.com/imagenes-sellers-mercado-ripley/2019/10/11182518/10020102_0.jpg",
+  "categoria_id": "1",
+  "caracteristicas": [
+   "DPI Y POLLING RATE: HASTA 7200 DPI Y 125/1000HZ",
+   "SENSOR: PAW3212 ÓPTICO",
+   "SWITCHES: OMRON DE 50 MILLONES DE CLICKS",
+   "CANTIDAD DE BOTONES: 8",
+   "ILUMINACIÓN: RGB CONFIGURABLE Y 7 EFECTOS DE JUEGO"	
+ ],
+  "id": "8"
+ },		
+ {
+  "nombre": "Teclado Razer Pro Type Ultra",
+  "descripcion": "Razer Pro Type Ultra - US",
+  "precio": 180,
+  "imagen": "dows.net%2Fsys-master-phoenix-images-container%2Fh37%2Fhda%2F9257514041374%2F211102-pro-type-ultra-500x500.png",
+  "categoria_id": "2",
+  "caracteristicas": [
+   "Respuesta 1ms",
+   "Resistente",
+   "Competitivo"
+  ],
+  "id": "9"
+ },
+ {
+  "nombre": "Teclado Razer BlackWidow V3 - Green",
+  "descripcion": "Doubleshot ABS Keycaps",
+  "precio": 240,
+  "imagen": "https://assets3.razerzone.com/Occ9tOelOsFrtgVO9PpCKqwHJd0=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh78%2Fhe7%2F9245362159646%2Fblackwidow-v3-halo-infinite-500x500.png",
+  "categoria_id": "2",
+  "caracteristicas": [
+   "Respuesta 1ms",
+   "Resistente",
+   "Competitivo"
+  ],
+  "id": "10"
+ },
+ {
+  "nombre": "Teclado Razer Huntsman V2 - Clicky Optical",
+  "descripcion": "Ergonomic wrist rest",
+  "precio": 280,
+  "imagen": "https://assets3.razerzone.com/QYslx_0_W5a9v8kaW2k-eHQ3DMA=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh61%2Fhd7%2F9239675633694%2Fhuntsman-v2-500x500.png",
+  "categoria_id": "2",
+  "caracteristicas": [
+   "Respuesta 1ms",
+   "Resistente",
+   "Competitivo"
+  ],
+  "id": "11"
+ },
+ {
+  "nombre": "Teclado Razer BlackWidow V3 - Green Switch - US - Quartz",
+  "descripcion": "Razer™ Mechanical Switches (Green)",
+  "precio": 300,
+  "imagen": "https://assets3.razerzone.com/osLCaLKhvIBopNS-eT6CUPtneCY=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh20%2Fhf0%2F9090120712222%2Fblackwidow-v3-500x500-quartz.png",
+  "categoria_id": "2",
+  "caracteristicas": [
+   "Respuesta 1ms",
+   "Resistente",
+   "Competitivo"
+  ],
+  "id": "12"
+ },
+ {
+  "nombre": "Teclado Razer Pro Type - US",
+  "descripcion": "Razer™ Mechanical Switches (Orange)",
+  "precio": 250,
+  "imagen": "https://assets3.razerzone.com/4wxFwI2uzgIZBkbkOf-QZ3zuckM=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh2e%2Fhd4%2F9078198468638%2Frazer-pro-type-500x500.png",
+  "categoria_id": "2",
+  "caracteristicas": [
+   "Respuesta 1ms",
+   "Resistente",
+   "Competitivo"
+  ],
+  "id": "13"
+ },
+ {
+  "nombre": "Redragon KUMARA K552 RGB",
+  "descripcion": "Black RGB Backlit",
+  "precio": 180,
+  "imagen": "https://m.media-amazon.com/images/I/71sFaDtowqL._AC_SY450_.jpg",
+  "categoria_id": "2",
+  "caracteristicas": [
+   "87 teclas estándar libres de conflictos, 12 teclas multimedia y diseño a prueba de salpicaduras",
+   "RGB"
+  ],
+  "id": "14"
+ },
+ {
+  "nombre": "HYPERX ALLOY CORE RGB",
+  "descripcion": "Black LED-RGB",
+  "precio": 670,
+  "imagen": "https://www.impacto.com.pe/storage/products/1618935253HX-KB5ME2-LA-1.jpg",
+  "categoria_id": "2",
+  "caracteristicas": [
+   "87 teclas estándar libres de conflictos",
+   "RGB"
+  ],
+  "id": "15"
+ },
+ {
+  "nombre": "MONITOR TEROS TE-3170N",
+  "descripcion": "Monitor gamer para gamers",
+  "precio": 250,
+  "imagen": "https://compuusa.com.pe/3975/monitor-teros-te-3170n-27-curvo.jpg",
+  "categoria_id": "3",
+  "caracteristicas": [
+   "27" MONITOR CURVO 144hz",
+   "1920*1080 Full HD"
+  ],
+  "id": "16"
+ }
+ {
+  "nombre": "Razer Raptor 27''",
+  "descripcion": "QHD (2560 x 1440) - 165Hz THX",
+  "precio": 2500,
+  "imagen": "https://home.ripley.com.pe/Attachment/WOP_5/percia-imag/001_0000_MSI_OPTIX%20MAG301CR2_INT_1.jpg",
+  "categoria_id": "3",
+  "caracteristicas": [
+   "Panel IPS plano de 27 pulgadas",
+   "Imágenes en una resolución Quad HD",
+   "2560 x 1440 píxeles - 165Hz"
+  ],
+  "id": "17"
+ }
+ {
+  "nombre": "Samsung Odyssey Neo G9",
+  "descripcion": "Dual QuadHD 1000R curve Mini LED - 240Hz",
+  "precio": 2500,
+  "imagen": "https://assets-prd.ignimgs.com/2021/08/04/samsung-odyssey-neo-g9-blogroll-1628088383960.jpg",
+  "categoria_id": "3",
+  "caracteristicas": [
+   "Pantalla curva de 1000R 49''"
+  ],
+  "id": "18"
+ }
+ {
+  "nombre": "LG UltraGear",
+  "descripcion": "Pantalla Nano IPS 38'' 21.9 curvada WQHD+ (3840 X 1600) - 144 Hz/ 175 Hz",
+  "precio": 2076,
+  "imagen": "https://www.lg.com/hk_en/images/MN/features/MNT-38GN950-09-02-2-Sphere-Lighting-Video-Sync.jpg",
+  "categoria_id": "3",
+  "caracteristicas": [
+   "38'' Curvada UHD 4K",
+   "VESA DisplayHDR 600",
+   "VESA DSC (Display Stream Compression)"
+  ],
+  "id": "19"
+ }
+ {
+  "nombre": " MSI OPTIX MAG301CR",
+  "descripcion": "29.5'' VA 1500R 2‎560X1080 WFHD",
+  "precio": 2200,
+  "imagen": "https://www.lg.com/hk_en/images/MN/features/MNT-38GN950-09-02-2-Sphere-Lighting-Video-Sync.jpg",
+  "categoria_id": "3",
+  "caracteristicas": [
+   "29.5'' Curvada FULL HD",
+   "Ángulo de visión amplio de 178°"
+  ],
+  "id": "20"
+ }
+]
